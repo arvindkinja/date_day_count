@@ -1,0 +1,3 @@
+services:
+  date_day_count.day_count:
+    class: Drupal\date_day_count\DateDiffDayCount

@@ -1,0 +1,5 @@
+name: Date Day Count
+description: Count number of days between two dates.
+type: module
+core_version_requirement: ^8.8 || ^9
+package: Date Custom
